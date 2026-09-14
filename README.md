@@ -1,7 +1,6 @@
-# Wen Qi Lim — Portfolio
+# Lim Wen Qi — Portfolio
 
-Bachelor Computer Science graduate with an interest in software engineering,
-3D simulation, virtual reality, and interactive systems.
+Bachelor of Science (Honours) in Computer Science graduate with interests in software engineering, 3D simulation, virtual reality, and interactive systems.
 
 ## Projects
 
@@ -25,7 +24,7 @@ music puzzles and progress towards performing a complete song.
 
 **Technologies:** Unity, C#, Blender, VR
 
-
+https://github.com/lim-wen-qi/chord-quest-vr
 
 ---
 
