@@ -4,7 +4,7 @@ Bachelor of Science (Honours) in Computer Science graduate with interests in sof
 
 ## Projects
 
-### PEEP — Physics-Based Escape Room
+### Peep — Physics-Based Escape Room
 
 
 A 3D physics-based escape room developed in Unity as my
