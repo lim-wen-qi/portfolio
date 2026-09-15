@@ -35,3 +35,5 @@ A desktop DJ application developed using C++ and the JUCE framework.
 
 **Technologies:** C++, JUCE
 
+https://github.com/lim-wen-qi/otodeck
+
