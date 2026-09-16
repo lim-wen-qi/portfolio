@@ -37,3 +37,13 @@ A desktop DJ application developed using C++ and the JUCE framework.
 
 https://github.com/lim-wen-qi/otodeck
 
+---
+
+### Blogging Tool — Full-Stack Web Application
+
+A full-stack blogging platform where authors can create and manage articles
+and readers can browse, interact with, and search content by tags.
+
+**Technologies:** Node.js, Express.js, EJS, SQLite, JavaScript
+
+https://github.com/lim-wen-qi/blogging-tool
