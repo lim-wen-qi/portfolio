@@ -6,7 +6,6 @@ software engineering, mobile and web development, and interactive applications.
 ## Technical Skills
 
 | | |
-|---|---|
 | **Languages** | JavaScript, C#, C++, Python, SQL |
 | **Mobile & Web** | React Native, Expo, React, Node.js, Express.js |
 | **Database** | Supabase, PostgreSQL, MongoDB |
