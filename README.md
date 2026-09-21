@@ -83,5 +83,6 @@ C++ and the JUCE framework.
 ## Contact
 
 📧 **Email:** wenqiii9487@gmail.com
+
 💼 **LinkedIn:** https://www.linkedin.com/in/wenqi-lim
 
