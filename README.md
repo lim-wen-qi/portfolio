@@ -18,9 +18,9 @@ software engineering, mobile and web development, and interactive applications.
 
 ### 📊 World Happiness Report 2019 — Data Analysis & Predictive Modelling
 
-An academic data analytics project examining happiness scores across 156 countries using Python. Conducted exploratory data analysis, data validation, statistical analysis, and visualisation to investigate relationships between happiness scores and socioeconomic indicators.
+An academic data analytics project exploring happiness scores across 156 countries using Python. Performed exploratory data analysis, statistical visualisation and correlation analysis to investigate relationships between happiness scores and socioeconomic indicators.
 
-Developed and evaluated a linear regression model using GDP per capita, social support, and healthy life expectancy to predict happiness scores, achieving an R² of 0.5545 and a mean squared error (MSE) of 0.4637.
+Developed and evaluated a linear regression model using GDP per capita, social support and healthy life expectancy, achieving an R² of 0.5545 and MSE of 0.4637 in the original coursework.
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
 
