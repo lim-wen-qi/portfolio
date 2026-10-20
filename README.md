@@ -17,6 +17,10 @@ This portfolio showcases my academic and personal projects across software devel
 
 ## Projects
 
+[💻 Web & Mobile Development](#-web--mobile-development) |
+[📊 Data Analytics & Machine Learning](#-data-analytics--machine-learning) |
+[🎮 Game & Interactive Development](#-game--interactive-development)
+
 ### 💻 Web & Mobile Development
 
 #### 📱 Travel Planner — Cross-Platform Mobile Application
