@@ -99,7 +99,7 @@ A desktop DJ application developed using C++ and the JUCE framework. Features du
 
 [View Project →](https://github.com/lim-wen-qi/otodeck)
 
----
+
 
 ## Contact
 
