@@ -1,37 +1,27 @@
 # Lim Wen Qi — Portfolio
 
-Bachelor of Science (Honours) in Computer Science graduate with interests in
-software engineering, mobile and web development, and interactive applications.
+Computer Science (Honours) graduate with a background in web and mobile development, data analytics, and interactive applications. I enjoy designing and developing practical, user-centred digital solutions, with an interest in creating intuitive interfaces and solving real-world problems through technology.
+
+This portfolio showcases my academic and personal projects across software development, data analysis, and interactive experiences.
 
 ## Technical Skills
 
-| | |
+| Category | Technologies |
 |---|---|
-| **Languages** | JavaScript, C#, C++, Python, SQL |
+| **Languages** | JavaScript, Python, SQL, C#, C++ |
+| **Web & Mobile** | React, React Native, Expo, Node.js, Express.js, HTML, CSS |
 | **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn |
-| **Mobile & Web** | React Native, Expo, React, Node.js, Express.js |
-| **Database** | Supabase, PostgreSQL, MongoDB |
-| **3D & Interactive** | Unity, Blender |
-| **Tools** | Git, GitHub, Figma |
+| **Databases** | Supabase, PostgreSQL, MongoDB, SQLite |
+| **Game & Interactive** | Unity, Blender, XR Interaction Toolkit |
+| **Tools** | Git, GitHub, Jupyter Notebook, Figma |
 
 ## Projects
 
-### 📊 World Happiness Report 2019 — Data Analysis & Predictive Modelling
+### 💻 Web & Mobile Development
 
-An academic data analytics project exploring happiness scores across 156 countries using Python. Performed exploratory data analysis, statistical visualisation and correlation analysis to investigate relationships between happiness scores and socioeconomic indicators.
+#### 📱 Travel Planner — Cross-Platform Mobile Application
 
-Developed and evaluated a linear regression model using GDP per capita, social support and healthy life expectancy, achieving an R² of 0.5545 and MSE of 0.4637 in the original coursework.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
-
-[View Project →](https://github.com/lim-wen-qi/world-happiness-analysis)
-
----
-
-### 📱 Travel Planner — Cross-Platform Mobile Application
-
-A cross-platform mobile application for planning and managing trips,
-including itineraries, trip members, shared expenses, and notifications.
+A cross-platform mobile application designed to simplify trip planning and collaboration. Users can organise itineraries, manage trip members, track shared expenses, and receive notifications.
 
 **Technologies:** React Native, Expo, JavaScript, Supabase
 
@@ -39,10 +29,9 @@ including itineraries, trip members, shared expenses, and notifications.
 
 ---
 
-### 🐾 PawsWeb — Full-Stack Pet Adoption Platform
+#### 🐾 PawsWeb — Full-Stack Pet Adoption Platform
 
-A full-stack pet adoption platform where users can browse and filter pet
-listings, save pets, submit adoption enquiries, and access adoption-related content.
+A full-stack web application designed to support the pet adoption process. Users can browse and filter pet listings, save their favourite pets, submit adoption enquiries, and access adoption-related information.
 
 **Technologies:** React, JavaScript, Node.js, Express.js, MongoDB
 
@@ -50,21 +39,9 @@ listings, save pets, submit adoption enquiries, and access adoption-related cont
 
 ---
 
-### 🎮 Peep — 3D Physics-Based Escape Room
+#### 📝 Blogging Tool — Full-Stack Web Application
 
-A 3D physics-based escape room developed in Unity as my
-Computer Science Final Project.
-
-**Technologies:** Unity, C#, Blender
-
-[View Project →](https://github.com/lim-wen-qi/peep-3d-escape-game)
-
----
-
-### 📝 Blogging Tool — Full-Stack Web Application
-
-A full-stack blogging platform where authors can create and manage articles
-and readers can browse, interact with, and search content by tags.
+A blogging platform that allows authors to create and manage articles while enabling readers to browse, search, and explore content through tags.
 
 **Technologies:** Node.js, Express.js, EJS, SQLite, JavaScript
 
@@ -72,30 +49,54 @@ and readers can browse, interact with, and search content by tags.
 
 ---
 
-### 🎵 Chord Quest — VR Music Puzzle Experience
+### 📊 Data Analytics & Machine Learning
 
-A room-based VR experience where players solve interactive
-music puzzles and progress towards performing a complete song.
+#### 🌍 World Happiness Report 2019 — Data Analysis & Predictive Modelling
 
-**Technologies:** Unity, C#, Blender, VR
+An academic data analytics project exploring happiness scores across 156 countries using Python. Conducted exploratory data analysis, data validation, and statistical visualisation to examine relationships between happiness scores and socioeconomic indicators.
+
+Developed a linear regression model using GDP per capita, social support, and healthy life expectancy, achieving an R² of 0.5545 and MSE of 0.4637 in the original coursework.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
+
+[View Project →](https://github.com/lim-wen-qi/world-happiness-analysis)
+
+---
+
+### 🎮 Game & Interactive Development
+
+#### 🧩 Peep — 3D Physics-Based Escape Game
+
+A 3D physics-based escape game developed as my Computer Science final-year project. Features interactive environments, physics-based object manipulation, and environmental puzzles involving doors, locks, and other interactive mechanisms.
+
+**Technologies:** Unity, C#, Blender, Unity Physics, Cinemachine
+
+[View Project →](https://github.com/lim-wen-qi/peep-3d-escape-game)
+
+---
+
+#### 🎵 Chord Quest — VR Music Puzzle Experience
+
+A virtual reality music puzzle experience where players progress through interactive rooms, solve note-matching and rhythm challenges, and complete a final musical performance.
+
+**Technologies:** Unity, C#, Blender, XR Interaction Toolkit
 
 [View Project →](https://github.com/lim-wen-qi/chord-quest-vr)
 
 ---
 
-### 🎧 Otodeck — DJ Application
+#### 🎧 Otodeck — Desktop DJ Application
 
-A desktop DJ application for music playback and mixing developed using 
-C++ and the JUCE framework.
+A desktop DJ application developed using C++ and the JUCE framework. Features dual audio decks, waveform visualisation, playback controls, and audio mixing functionality.
 
 **Technologies:** C++, JUCE
 
 [View Project →](https://github.com/lim-wen-qi/otodeck)
 
+---
 
 ## Contact
 
 📧 **Email:** wenqiii9487@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/wenqi-lim
-
+💼 **LinkedIn:** [linkedin.com/in/wenqi-lim](https://www.linkedin.com/in/wenqi-lim)
