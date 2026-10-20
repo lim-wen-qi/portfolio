@@ -23,7 +23,7 @@ This portfolio showcases my academic and personal projects across software devel
 
 ---
 
-### 💻 Web & Mobile Development
+### Web & Mobile Development
 
 #### 📱 Travel Planner — Cross-Platform Mobile Application
 
@@ -55,7 +55,7 @@ A blogging platform that allows authors to create and manage articles while enab
 
 ---
 
-### 📊 Data Analytics & Machine Learning
+### Data Analytics & Machine Learning
 
 #### 🌍 World Happiness Report 2019 — Data Analysis & Predictive Modelling
 
@@ -69,7 +69,7 @@ Developed a linear regression model using GDP per capita, social support, and he
 
 ---
 
-### 🎮 Game & Interactive Development
+### Game & Interactive Development
 
 #### 🧩 Peep — 3D Physics-Based Escape Game
 
