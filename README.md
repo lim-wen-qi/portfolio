@@ -26,6 +26,8 @@ Developed and evaluated a linear regression model using GDP per capita, social s
 
 [View Project →](https://github.com/lim-wen-qi/world-happiness-analysis)
 
+---
+
 ### 📱 Travel Planner — Cross-Platform Mobile Application
 
 A cross-platform mobile application for planning and managing trips,
