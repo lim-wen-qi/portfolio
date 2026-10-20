@@ -8,12 +8,23 @@ software engineering, mobile and web development, and interactive applications.
 | | |
 |---|---|
 | **Languages** | JavaScript, C#, C++, Python, SQL |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn |
 | **Mobile & Web** | React Native, Expo, React, Node.js, Express.js |
 | **Database** | Supabase, PostgreSQL, MongoDB |
 | **3D & Interactive** | Unity, Blender |
 | **Tools** | Git, GitHub, Figma |
 
 ## Projects
+
+### 📊 World Happiness Report 2019 — Data Analysis & Predictive Modelling
+
+An academic data analytics project examining happiness scores across 156 countries using Python. Conducted exploratory data analysis, data validation, statistical analysis, and visualisation to investigate relationships between happiness scores and socioeconomic indicators.
+
+Developed and evaluated a linear regression model using GDP per capita, social support, and healthy life expectancy to predict happiness scores, achieving an R² of 0.5545 and a mean squared error (MSE) of 0.4637.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
+
+[View Project →](https://github.com/lim-wen-qi/world-happiness-analysis)
 
 ### 📱 Travel Planner — Cross-Platform Mobile Application
 
